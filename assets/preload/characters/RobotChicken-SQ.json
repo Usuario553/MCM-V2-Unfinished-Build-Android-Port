@@ -1,56 +1,44 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				3,
+				0,
 				0
 			],
+			"loop": false,
 			"fps": 12,
-			"anim": "cheer",
+			"anim": "vomit",
 			"indices": [],
-			"name": "GF Cheer"
+			"name": "RobotChicken-SQ Vomit"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "RobotChicken-SQ Pissed"
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				0
 			],
+			"anim": "idle",
 			"fps": 12,
-			"anim": "danceLeft",
-			"indices": [
-				9,
-				0,
-				1,
-				2,
-				3,
-				4
-			],
-			"name": "GF Dancing Beat"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-9
-			],
-			"fps": 12,
-			"anim": "danceRight",
-			"indices": [
-				5,
-				6,
-				7,
-				8
-			],
-			"name": "GF Dancing Beat"
+			"name": "RobotChicken-SQ Munching",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_FinishedREAL",
+	"image": "characters/largespritesheets/RobotChicken-SQ",
 	"position": [
-		-230,
-		-280
+		240,
+		250
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -64,5 +52,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 0.5
+	"scale": 2
 }
