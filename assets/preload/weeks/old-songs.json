@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Doomsday Old",
+			"squidward",
+			[
+				195,
+				235,
+				255
+			]
+		],
+		[
+			"Tortured Old",
+			"tp",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Dumped Old",
+			"bootleg",
+			[
+				215,
+				255,
+				40
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Old",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,8 +1,8 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Humiliation", "squidward", [103, 174, 175]],
+		["Mist", "lolward", [105, 157, 121]],
+		["Doomsday", "darkward", [171, 186, 183]]
 	],
 
 	"weekCharacters": [
@@ -12,9 +12,10 @@
 	],
 	"weekBackground": "stage",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "Mistful Crimson Morning",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
+	"difficulties": "Hard",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
