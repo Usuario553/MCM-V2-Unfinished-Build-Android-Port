@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="canon_redmist.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instance 10000" x="0" y="2170" width="707" height="510" frameX="0" frameY="-128" frameWidth="1456" frameHeight="1244"/>
+	<SubTexture name="down instance 10001" x="1905" y="1512" width="709" height="511" frameX="0" frameY="-126" frameWidth="1456" frameHeight="1244"/>
+	<SubTexture name="down instance 10002" x="1905" y="1512" width="709" height="511" frameX="0" frameY="-126" frameWidth="1456" frameHeight="1244"/>
+	<SubTexture name="down instance 10003" x="1278" y="1512" width="627" height="565" frameX="-89" frameY="-39" frameWidth="1456" frameHeight="1244"/>
+	<SubTexture name="down instance 10004" x="1278" y="1512" width="627" height="565" frameX="-89" frameY="-39" frameWidth="1456" frameHeight="1244"/>
+
+	<SubTexture name="idle instance 10000" x="0" y="1512" width="608" height="658"/>
+
+	<SubTexture name="left instance 10000" x="1366" y="820" width="646" height="682" frameX="-19" frameY="-5" frameWidth="1349" frameHeight="1282"/>
+	<SubTexture name="left instance 10001" x="720" y="820" width="646" height="682"
+frameX="-19" frameY="-5" frameWidth="1349" frameHeight="1282"/>
+	<SubTexture name="left instance 10002" x="608" y="1512" width="670" height="643" frameX="-72" frameY="-55" frameWidth="1349" frameHeight="1282"/>
+	<SubTexture name="left instance 10003" x="608" y="1512" width="670" height="643" frameX="-72" frameY="-55" frameWidth="1349" frameHeight="1282"/>
+
+	<SubTexture name="right instance 10000" x="0" y="820" width="720" height="692" frameX="0" frameY="0" frameWidth="1550" frameHeight="1481"/>
+	<SubTexture name="right instance 10001" x="2033" y="0" width="720" height="694" frameX="0" frameY="0" frameWidth="1550" frameHeight="1481"/>
+	<SubTexture name="right instance 10002" x="2012" y="820" width="709" height="681" frameX="-51" frameY="-1" frameWidth="1550" frameHeight="1481"/>
+	<SubTexture name="right instance 10003" x="2012" y="820" width="709" height="681" frameX="-51" frameY="-1" frameWidth="1550" frameHeight="1481"/>
+
+	<SubTexture name="up instance 10000" x="679" y="0" width="679" height="818" frameX="0" frameY="-7" frameWidth="1372" frameHeight="1466"/>
+	<SubTexture name="up instance 10001" x="0" y="0" width="679" height="820" frameX="0" frameY="0" frameWidth="1372" frameHeight="1466"/>
+	<SubTexture name="up instance 10002" x="1358" y="0" width="675" height="785" frameX="-2" frameY="-61" frameWidth="1372" frameHeight="1466"/>
+	<SubTexture name="up instance 10003" x="1358" y="0" width="675" height="785" frameX="-2" frameY="-61" frameWidth="1372" frameHeight="1466"/>
+</TextureAtlas>
