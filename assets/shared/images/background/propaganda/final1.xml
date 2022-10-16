@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="final1.png">
+	<!-- que-->
+	<!-- so -->
+  <SubTexture name="scene40000" x="0" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40001" x="864" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40002" x="1728" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40003" x="2592" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40004" x="0" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40005" x="864" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40006" x="1728" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40007" x="2592" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40008" x="0" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40009" x="0" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40010" x="0" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40011" x="0" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40012" x="0" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40013" x="864" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40014" x="1728" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40015" x="2592" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40016" x="864" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40017" x="1728" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40018" x="2592" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40019" x="864" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40020" x="864" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40021" x="864" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40022" x="1728" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40023" x="2592" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40024" x="1728" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene40025" x="1728" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+</TextureAtlas>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intro3.png">
+	<!-- que-->
+	<!-- so -->
+  <SubTexture name="scene30000" x="0" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30001" x="1728" y="3360"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30002" x="864" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30003" x="864" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30004" x="0" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30005" x="864" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30006" x="0" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30007" x="864" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30008" x="1728" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30009" x="1728" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30010" x="1728" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30011" x="1728" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30012" x="0" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30013" x="864" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30014" x="1728" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30015" x="0" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30016" x="864" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30017" x="1728" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30018" x="2592" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30019" x="2592" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30020" x="2592" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30021" x="2592" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30022" x="2592" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30023" x="2592" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30024" x="0" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30025" x="864" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30026" x="1728" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30027" x="2592" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30028" x="0" y="3360"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30029" x="864" y="3360"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30030" x="0" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30031" x="2592" y="3360"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30032" x="3456" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30033" x="3456" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30034" x="3456" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30035" x="3456" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30036" x="3456" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30037" x="3456" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30038" x="3456" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30039" x="3456" y="3360"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30040" x="0" y="3840"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30041" x="864" y="3840"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30042" x="1728" y="3840"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30043" x="2592" y="3840"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30044" x="3456" y="3840"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30045" x="4320" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30046" x="4320" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30047" x="4320" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30048" x="4320" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30049" x="4320" y="1920"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30050" x="4320" y="2400"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30051" x="4320" y="2880"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30052" x="4320" y="3360"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30053" x="4320" y="3840"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30054" x="0" y="4320"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30055" x="864" y="4320"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30056" x="1728" y="4320"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30057" x="2592" y="4320"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30058" x="3456" y="4320"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene30059" x="4320" y="4320"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+</TextureAtlas>

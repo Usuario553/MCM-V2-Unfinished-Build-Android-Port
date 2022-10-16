@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="final3.png">
+	<!-- que-->
+	<!-- so -->
+  <SubTexture name="scene60000" x="0" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60001" x="864" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60002" x="0" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60003" x="864" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60004" x="0" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60005" x="0" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60006" x="0" y="1440"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60007" x="864" y="960"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60008" x="864" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60009" x="0" y="480"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60010" x="864" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+  <SubTexture name="scene60011" x="0" y="0"  width="864" height="480" frameX="-0" frameY="-0" frameWidth="864" frameHeight="480"/>
+</TextureAtlas>
